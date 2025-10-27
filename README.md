@@ -1,16 +1,59 @@
-## Hi there 👋
+<!-- Fadhil006/Fadhil006 README -->
 
-<!--
-**Fadhil006/Fadhil006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there 👋, I'm Fadhil</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- 💡 I’m a **Computer Science student** exploring **AI, Web, and Systems Development**  
+- 🚀 Currently working on **Presentation Coach** and **NabhaSeva**  
+- 🎯 Interested in combining **AI + intuitive design** to build practical tools  
+- ⚡ I love experimenting with new tech and building things that solve real problems  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,react,nodejs,python,git,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fadhil006&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadhil006&theme=tokyonight&hide_border=true" height="165px"/>
+</p>
+
+---
+
+### 🌱 Recent Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [**Presentation-Coach**](https://github.com/Fadhil006/Presentation-Coach) | Real-time presentation analyzer with feedback | JavaScript |
+| [**NabhaSeva**](https://github.com/Fadhil006/NabhaSeva) | Digital volunteer management platform | TypeScript |
+| [**Data Structures Terminal Simulator**](https://github.com/Fadhil006/data-structures-terminal-simulator) | CLI tool for visualizing DSA concepts | HTML / C++ |
+| [**Online Quiz System**](https://github.com/Fadhil006/Online-Quiz-System) | A simple quiz web app | Java |
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Fadhil006"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fadhil006/Fadhil006/main/wave.svg" width="100%" />
+</p>
