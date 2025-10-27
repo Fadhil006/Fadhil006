@@ -18,7 +18,15 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,react,nodejs,python,git,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,python,sqlite" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,git,linux,neovim" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-%23007ACC?style=for-the-badge&logoColor=white&logo=chainlink&color=blueviolet" />
 </p>
 
 ---
