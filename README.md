@@ -10,7 +10,6 @@
 
 ### 👨‍💻 About Me
 - 💡 I’m a **Computer Science student** exploring **AI, Web, and Systems Development**  
-- 🚀 Currently working on **Presentation Coach** and **NabhaSeva**  
 - 🎯 Interested in combining **AI + intuitive design** to build practical tools  
 - ⚡ I love experimenting with new tech and building things that solve real problems  
 
@@ -55,5 +54,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fadhil006/Fadhil006/main/wave.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:2a2a72&height=120&section=footer" width="100%"/>
 </p>
