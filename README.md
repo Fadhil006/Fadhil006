@@ -10,8 +10,9 @@
 
 ### 👨‍💻 About Me
 - 💡 I’m a **Computer Science student** exploring **AI, Web, and Systems Development**  
-- 🎯 Interested in combining **AI + intuitive design** to build practical tools  
-- ⚡ I love experimenting with new tech and building things that solve real problems  
+- 🎯 I enjoy blending **AI with intuitive design** to build tools that actually help people  
+- 💻 Solved **150+ DSA** and **200+ competitive programming** problems  
+- ⚡ Constantly learning, experimenting, and building new things  
 
 ---
 
@@ -40,14 +41,20 @@
 
 ---
 
-### 🌱 Recent Projects
+### 🌱 Featured Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
 | [**Presentation-Coach**](https://github.com/Fadhil006/Presentation-Coach) | Real-time presentation analyzer with feedback | JavaScript |
-| [**NabhaSeva**](https://github.com/Fadhil006/NabhaSeva) | Digital volunteer management platform | TypeScript |
-| [**Data Structures Terminal Simulator**](https://github.com/Fadhil006/data-structures-terminal-simulator) | CLI tool for visualizing DSA concepts | HTML / C++ |
-| [**Online Quiz System**](https://github.com/Fadhil006/Online-Quiz-System) | A simple quiz web app | Java |
+| [**NabhaSeva**](https://github.com/Fadhil006/NabhaSeva) | AI-driven rural healthcare PWA | TypeScript |
+| [**Data Structures Terminal Simulator**](https://github.com/Fadhil006/data-structures-terminal-simulator) | CLI-based DSA visualizer | HTML / C++ |
+| [**Online Quiz System**](https://github.com/Fadhil006/Online-Quiz-System) | Simple quiz web app | Java |
+
+---
+
+### 🧩 Competitive Programming
+- 🏹 Solved **150+ DSA problems** and **200+ coding challenges** on platforms like LeetCode, Codeforces, and GFG  
+- 🧠 Strong grasp of **algorithms, data structures, and optimization logic**
 
 ---
 
@@ -56,7 +63,7 @@
 <p align="center">
   <a href="https://github.com/Fadhil006"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://www.linkedin.com/in/muhamed-fadhil-b77356324/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 </p>
 
 ---
