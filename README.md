@@ -17,20 +17,11 @@
 ---
 
 ### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,sqlite,react,nodejs,git,linux,neovim" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-%23007ACC?style=for-the-badge&logoColor=white&logo=chainlink&color=blueviolet" />
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-%232b2b2b?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI/Gemini-%23a855f7?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
+<p align="center"> <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=plotly&logoColor=black" /> <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/SciPy-%230C55A5?style=for-the-badge&logo=scipy&logoColor=white" /> <img src="https://img.shields.io/badge/Vosk-%23FF4B4B?style=for-the-badge&logo=soundcharts&logoColor=white" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/LangChain-%23007ACC?style=for-the-badge&logo=chainlink&logoColor=white&color=blueviolet" /> <img src="https://img.shields.io/badge/OpenAI-%23000000?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-%2334A853?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-%232b2b2b?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Drain3-%233B82F6?style=for-the-badge&logo=azurepipelines&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white" /> </p>
 ---
 
 ### 🏆 Achievements
@@ -53,9 +44,9 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [**LogSage**](#) | AI-powered log analytics assistant for root cause diagnosis | Python / Streamlit / LangChain |
-| [**Presentation-Coach**](https://github.com/Fadhil006/Presentation-Coach) | Real-time presentation analyzer with feedback | JavaScript |
-| [**NabhaSeva**](https://github.com/Fadhil006/NabhaSeva) | AI-driven rural healthcare PWA | TypeScript |
+| [**LogSage**](#) | AI-powered log analytics assistant for root cause diagnosis | Drain3 / Langchain / ChromaDB / FastAPI|
+| [**Presentation-Coach**](https://github.com/Fadhil006/Presentation-Coach) | Real-time presentation analyzer with feedback | Flask / Vosk / React |
+| [**NabhaSeva**](https://github.com/Fadhil006/NabhaSeva) | AI-driven rural healthcare PWA | Machine Learning |
 | [**Data Structures Terminal Simulator**](https://github.com/Fadhil006/data-structures-terminal-simulator) | CLI-based DSA visualizer | C++ / HTML |
 | [**Online Quiz System**](https://github.com/Fadhil006/Online-Quiz-System) | Simple quiz web app | Java |
 
