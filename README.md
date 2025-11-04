@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 - 💡 I’m a **Computer Science student** exploring **AI, Web, and Systems Development**  
-- 🎯 I enjoy blending **AI with intuitive design** to build tools that actually help people  
+- 🎯 Passionate about blending **AI + intuitive design** to build tools that actually help people  
 - 💻 Solved **150+ DSA** and **200+ competitive programming** problems  
 - ⚡ Constantly learning, experimenting, and building new things  
 
@@ -19,16 +19,24 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,python,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,sqlite,react,nodejs,git,linux,neovim" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,git,linux,neovim" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-%23007ACC?style=for-the-badge&logoColor=white&logo=chainlink&color=blueviolet" />
+  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-%232b2b2b?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI/Gemini-%23a855f7?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+
+---
+
+### 🏆 Achievements
+- 🌟 **Top 20 among 250+ teams** at *Acsia Hackathon 2025* for developing **LogSage**, an AI-powered log intelligence assistant  
+- 💻 Consistently ranked on coding platforms like **LeetCode**, **Codeforces**, and **GFG**  
+- 🧩 Built multiple cross-domain projects combining **AI, Web, and Systems Development**
 
 ---
 
@@ -45,15 +53,16 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
+| [**LogSage**](#) | AI-powered log analytics assistant for root cause diagnosis | Python / Streamlit / LangChain |
 | [**Presentation-Coach**](https://github.com/Fadhil006/Presentation-Coach) | Real-time presentation analyzer with feedback | JavaScript |
 | [**NabhaSeva**](https://github.com/Fadhil006/NabhaSeva) | AI-driven rural healthcare PWA | TypeScript |
-| [**Data Structures Terminal Simulator**](https://github.com/Fadhil006/data-structures-terminal-simulator) | CLI-based DSA visualizer | HTML / C++ |
+| [**Data Structures Terminal Simulator**](https://github.com/Fadhil006/data-structures-terminal-simulator) | CLI-based DSA visualizer | C++ / HTML |
 | [**Online Quiz System**](https://github.com/Fadhil006/Online-Quiz-System) | Simple quiz web app | Java |
 
 ---
 
 ### 🧩 Competitive Programming
-- 🏹 Solved **150+ DSA problems** and **200+ coding challenges** on platforms like LeetCode, Codeforces, and GFG  
+- 🏹 Solved **150+ DSA problems** and **200+ coding challenges** (LeetCode, Codeforces, GFG)  
 - 🧠 Strong grasp of **algorithms, data structures, and optimization logic**
 
 ---
