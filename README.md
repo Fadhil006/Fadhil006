@@ -54,7 +54,12 @@
 
 ### 🧩 Competitive Programming
 - 🏹 Solved **150+ DSA problems** and **200+ coding challenges** (LeetCode, Codeforces, GFG)  
-- 🧠 Strong grasp of **algorithms, data structures, and optimization logic**
+- 🧠 Strong grasp of **algorithms, data structures, and optimization logic**  
+<p align="center">
+  <a href="https://codolio.com/profile/Fadhil_006">
+    <img src="https://img.shields.io/badge/View%20My%20Codolio%20Profile-%23007ACC?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
 
 ---
 
