@@ -19,7 +19,6 @@
 
 - I build and deploy end-to-end systems — ML models behind real APIs, not just notebooks
 - **550+ problems solved** — 250+ DSA · 300+ competitive programming on LeetCode, Codeforces & GFG ([Codolio](https://codolio.com/profile/Fadhil_006))
-- **Top 20 / 250+ teams** at Acsia Hackathon 2025 for LogSage, an AI log-intelligence assistan
 
 ### Projects
 
