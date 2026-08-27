@@ -18,7 +18,7 @@
 ### About
 
 - I build and deploy end-to-end systems — ML models behind real APIs, not just notebooks
-- **550+ problems solved** — 250+ DSA · 300+ competitive programming on LeetCode, Codeforces & GFG ([Codolio](https://codolio.com/profile/Fadhil_006))
+- **600+ problems solved** — 300+ DSA · 300+ competitive programming on LeetCode, Codeforces & CodeChef ([Codolio](https://codolio.com/profile/Fadhil_006))
 
 ### Projects
 
